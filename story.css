@@ -1,0 +1,53 @@
+header {
+background-color:#31a2fa;
+width: 1000px;
+height: 173px;
+margin: 20px;
+align-items: center;
+}
+
+body {
+background-image: url(https://ihategenpolshesuckz.neocities.org/images/cdn/Untitled1602_20260903181957.jpg);
+  background-color: #354a76;
+}
+
+
+@font-face {
+font-family: 'TeXGyreAdventor';
+src: 'https://fonts.cdnfonts.com/css/tex-gyre-adventor';
+}
+
+.topnav {
+  margin: 20px;
+  width: 995px;
+  height: 85px;
+  background-color: #e7fe00;
+}
+
+
+
+.content {
+  background-color: #cdcdcd;
+  width: 825px;
+  height: 970px;
+  margin: 20px;
+  align-content: center;
+  font-size: 52px;
+  text-align: center;
+  color: #000000;
+
+  
+}    
+
+.content {
+font-family: 'TeXGyreAdventor';
+}
+
+
+footer {
+background-color:#fff600;
+  width: 1000px;
+  height: 173px;
+  margin: 20px;
+  align-items: center;
+}

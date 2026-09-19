@@ -1,1 +1,82 @@
 
+header {
+ background-color: #bde5ff ;
+ padding: 0px;
+margin: 40px;
+}
+
+body {
+background-image: url(https://ihategenpolshesuckz.neocities.org/images/cdn/Untitled1584_20260822111812.png);
+background-color: #111111;
+  
+}
+
+
+@font-face {
+font-family: 'TeXGyreAdventor', sans-serif;
+src: 'https://fonts.cdnfonts.com/css/tex-gyre-adventor';
+}
+
+.sidenav {
+   font-family: 'TeXGyreAdventor';
+}
+
+.topnav {
+  background-color: #bde5ff;
+  color: white;
+  height: 105px;
+  margin: 40px;
+  } 
+  
+.sidenav {
+  background-color: #bde5ff;
+  color: white;
+  align-content: left;
+  width: 350px;
+  height: 515px;
+  margin: 40px;
+}
+
+.sidenav {
+   font-family: 'TeXGyreAdventor';
+}
+
+
+.content {
+  background-color: black;
+  width: 600px;
+  height: 450px;
+  margin: 40px;
+  font-family: 'TeXGyreAdventor';
+  font-size: 30px;
+  text-align: 180px;
+}
+footer {
+  background-color: #3d85c6;
+  text-align: center;
+  padding: 8px;
+  width: 960px;
+  height: 23px;
+  align-content: center;
+  margin: 40px;
+}
+ a:link {
+    color: black;
+    background-color:transparent;
+    text-decoration:none;
+  
+  }
+
+a:hover {
+  color:#fa0849;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+color: black;
+}
+
+footer {
+   font-family: 'TeXGyreAdventor';
+}
